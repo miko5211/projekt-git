@@ -1,0 +1,17 @@
+{
+    "name": "Blog o pomidorach",
+    "short_name": "tomatoApp",
+    "theme_color": "#ff9671",
+    "background_color": "#ff9671",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/projekt-git/",
+    "icons": [
+        {
+            "src": "./TmT.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+  }
